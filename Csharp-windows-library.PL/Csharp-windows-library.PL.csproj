@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>Csharp_windows_library.PL</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Csharp-windows-library.BLL\Csharp-windows-library.BLL.csproj" />
+    <ProjectReference Include="..\Csharp-windows-library.Contracts\Csharp-windows-library.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

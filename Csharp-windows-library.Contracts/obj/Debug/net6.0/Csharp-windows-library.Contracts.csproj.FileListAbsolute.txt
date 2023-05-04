@@ -1,0 +1,12 @@
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\bin\Debug\net6.0\Csharp-windows-library.Contracts.deps.json
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\bin\Debug\net6.0\Csharp-windows-library.Contracts.dll
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\bin\Debug\net6.0\Csharp-windows-library.Contracts.pdb
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\obj\Debug\net6.0\Csharp-windows-library.Contracts.csproj.AssemblyReference.cache
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\obj\Debug\net6.0\Csharp-windows-library.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\obj\Debug\net6.0\Csharp-windows-library.Contracts.AssemblyInfoInputs.cache
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\obj\Debug\net6.0\Csharp-windows-library.Contracts.AssemblyInfo.cs
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\obj\Debug\net6.0\Csharp-windows-library.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\obj\Debug\net6.0\Csharp-windows-library.Contracts.dll
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\obj\Debug\net6.0\refint\Csharp-windows-library.Contracts.dll
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\obj\Debug\net6.0\Csharp-windows-library.Contracts.pdb
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.Contracts\obj\Debug\net6.0\ref\Csharp-windows-library.Contracts.dll

@@ -1,0 +1,17 @@
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\bin\Debug\net6.0\Csharp-windows-library.BLL.deps.json
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\bin\Debug\net6.0\Csharp-windows-library.BLL.dll
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\bin\Debug\net6.0\Csharp-windows-library.BLL.pdb
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\obj\Debug\net6.0\Csharp-windows-library.BLL.csproj.AssemblyReference.cache
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\obj\Debug\net6.0\Csharp-windows-library.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\obj\Debug\net6.0\Csharp-windows-library.BLL.AssemblyInfoInputs.cache
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\obj\Debug\net6.0\Csharp-windows-library.BLL.AssemblyInfo.cs
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\obj\Debug\net6.0\Csharp-windows-library.BLL.csproj.CoreCompileInputs.cache
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\obj\Debug\net6.0\Csharp-windows-library.BLL.dll
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\obj\Debug\net6.0\refint\Csharp-windows-library.BLL.dll
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\obj\Debug\net6.0\Csharp-windows-library.BLL.pdb
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\obj\Debug\net6.0\ref\Csharp-windows-library.BLL.dll
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\bin\Debug\net6.0\Csharp-windows-library.DAL.dll
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\bin\Debug\net6.0\Csharp-windows-library.DAL.pdb
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\obj\Debug\net6.0\Csharp-windows-library.BLL.csproj.CopyComplete
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\bin\Debug\net6.0\Csharp-windows-library.Contracts.dll
+C:\Users\dyanakiev\source\repos\csharp-sentence-case-exercise-template\Csharp-windows-library\Csharp-windows-library.BLL\bin\Debug\net6.0\Csharp-windows-library.Contracts.pdb

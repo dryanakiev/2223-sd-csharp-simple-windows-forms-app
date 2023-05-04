@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Csharp_windows_library.BLL</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Csharp-windows-library.Contracts\Csharp-windows-library.Contracts.csproj" />
+    <ProjectReference Include="..\Csharp-windows-library.DAL\Csharp-windows-library.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
